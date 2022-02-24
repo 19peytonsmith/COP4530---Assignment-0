@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Peyton/CLionProjects/DataStructures0/main.cpp
+iostream
+-
+string
+-
+stack.h
+C:/Users/Peyton/CLionProjects/DataStructures0/stack.h
+
+C:/Users/Peyton/CLionProjects/DataStructures0/stack.h
+iostream
+-
+
